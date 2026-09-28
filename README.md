@@ -3,6 +3,8 @@
 Android-App: In TikTok, Instagram Reels, YouTube Shorts & Co. per Kopf-, Augen- oder Mundgeste swipen, ganz ohne Hände.
 Konzept und Bewertung: [concept.md](concept.md).
 
+> **Projekt eingefroren (28.09.2026).** Stand, offene Punkte und Wiedereinstieg: [STATUS.md](STATUS.md).
+
 ## Was die App kann
 
 | Geste | Standard-Aktion |
