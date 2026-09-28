@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Gesten-Swipe</string>
+    <string name="accessibility_label">Gesten-Swipe</string>
+    <string name="accessibility_description">Gesten-Swipe führt Swipes und Tipps aus, wenn die Frontkamera eine Kopf-, Augen- oder Mundgeste erkennt. So kannst du in TikTok, Reels und Shorts ohne Hände zum nächsten Video wechseln. Die App liest keine Bildschirminhalte; sie erkennt nur, welche App im Vordergrund ist, damit die Kamera ausschließlich in deinen Ziel-Apps läuft. Kamerabilder werden nur auf dem Gerät verarbeitet und nie gespeichert oder übertragen.</string>
+    <string name="channel_name">Gestensteuerung</string>
+    <string name="channel_description">Zeigt an, dass die Gestensteuerung aktiv ist.</string>
+    <string name="notif_running">Gestensteuerung aktiv</string>
+    <string name="notif_paused">Gestensteuerung pausiert</string>
+    <string name="notif_text">Kamera läuft nur in deinen Ziel-Apps.</string>
+    <string name="action_pause">Pausieren</string>
+    <string name="action_resume">Fortsetzen</string>
+    <string name="action_stop">Beenden</string>
+</resources>
